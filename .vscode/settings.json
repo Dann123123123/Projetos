@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
